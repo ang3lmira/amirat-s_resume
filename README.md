@@ -5,39 +5,61 @@ Hello, My name is Olumudi Amirat. I am a 20-year-old second year psychology stud
 This is a basic HTML skeleton.
 ```
 <html>
+    <!-- container for all HTML code -->
+
 	<head>
+        <!-- contains all the information about the page -->
+
 		<link href="style.css" rel="stylesheet">
-		<title>Your Name resume</title>
+        <!-- signifies the stylesheet being used -->
+
+		<title>amirat's resume</title>
+        <!-- title of the page to display on the toolbar -->
+
 	</head>
 
 	<body>
+        <!-- indicates all the page content to be shown to the user-->
+
 		<header id="header">
-			<!-- resume header with your name and title -->
-			<h1>YOUR NAME</h1>
+			<!-- semantic tags (header, main, article & section)-->
+
+			<h1>**insert your name**</h1>
+            <!-- level one header -->
+
 			<hr>
-			YOUR TITLE (EX: SOFTWARE ENGINEERING STUDENT)
+            <!-- rule a horizontal line -->
+			your role title
 			<hr>
+
 		</header>
+
 		<main>
 			<article id="mainLeft">
+                <!-- assign unique id -->
+                
 				<section>
 					<h2>CONTACT</h2>
 					<!-- contact info including social media -->
 				</section>
+
 				<section>
 					<h2>SKILLS</h2>
 					<!-- your skills -->
 				</section>
+
 				<section>
 					<h2>EDUCATION</h2>
 					<!-- your education -->
 				</section>            
 			</article>
+
 			<article id="mainRight">
 				<section>
 					<h2>ABOUT</h2>
 					<!-- about you -->
 				</section>
+                
 				<section>
 					<h2>WORK EXPERIENCE</h2>
 					<!-- your work experience -->
