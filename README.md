@@ -5,8 +5,8 @@ Hello, My name is Olumudi Amirat. I am a 20-year-old second year psychology stud
 
 #HTML skeleton
 This is a basic HTML skeleton.
-
-```<html>
+```
+<html>
 	<head>
 		<link href="style.css" rel="stylesheet">
 		<title>Your Name resume</title>
