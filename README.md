@@ -1,9 +1,7 @@
 # amirat-s_resume
-Hello, My name is Olumudi Amirat. I am a 20-year-old second year psychology student and also a cybersecurity intern. This is a website that showcases my resume.  🙂 
+Hello, My name is Olumudi Amirat. I am a 20-year-old second year psychology student and also a cybersecurity intern. This is a website that showcases my resume.  🙂 You can use this as a resume template, just fork it and edit to personalize it.
 
-#You can use this as a resume template, just fork it and edit to personalize it.
 
-#HTML skeleton
 This is a basic HTML skeleton.
 ```
 <html>
