@@ -100,7 +100,7 @@ h3 {
 }
 ```
 
-This is the css code for the code
+This is the css code for the grid
 ```
     main { 
         display: grid;
