@@ -129,3 +129,10 @@ h1, h2, h3 {
     margin-bottom: 0;
 }
 ```
+
+This is the selecting ID code
+```
+#mainLeft {
+    border-right: 1px solid lightgray;
+}
+```
