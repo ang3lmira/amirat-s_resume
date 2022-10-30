@@ -37,7 +37,7 @@ This is a basic HTML skeleton.
 		<main>
 			<article id="mainLeft">
                 <!-- assign unique id -->
-                
+
 				<section>
 					<h2>CONTACT</h2>
 					<!-- contact info including social media -->
@@ -70,3 +70,12 @@ This is a basic HTML skeleton.
 </html>
 ```
 
+This is the basic CSS styling
+```
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    max-width: 960px;
+    margin: auto;
+}
+```
