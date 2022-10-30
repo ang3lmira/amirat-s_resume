@@ -99,6 +99,15 @@ h3 {
     padding-bottom: 1em;
 }
 ```
+
+This is the css code for the code
+```css
+    main { 
+        display: grid;
+        grid-template-columns: 40% 60%;
+        margin-top: 3em;
+    }
+```
 This is the padding css code
 ```
 header {
