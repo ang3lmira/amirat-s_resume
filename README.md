@@ -101,7 +101,7 @@ h3 {
 ```
 
 This is the css code for the code
-```css
+```
     main { 
         display: grid;
         grid-template-columns: 40% 60%;
