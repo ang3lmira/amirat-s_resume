@@ -78,7 +78,10 @@ body {
     max-width: 960px;
     margin: auto;
 }
+```
 
+This is the sizing css code
+```
 h1 {
     font-size: 3em;
     letter-spacing: .6em;
@@ -95,6 +98,34 @@ h3 {
     font-size: 1em;
     padding-bottom: 1em;
 }
+```
+This is the padding css code
+```
+header {
+    text-align: center;
+    margin: auto 2em;
+}
 
+section {
+    margin: auto 1em 4em 2em;
+}
 
+i {
+    margin-right: .5em;
+}
+
+p {
+    margin: .2em auto
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
+
+h1, h2, h3 {
+    font-weight: 100;
+    margin-bottom: 0;
+}
 ```
